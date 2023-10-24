@@ -1,0 +1,20 @@
+ls
+mkdir docs
+mkdir pics
+ls
+create a.txt
+create b.txt
+ls
+stat a.txt
+stat docs
+echo a.txt hello world
+cat a.txt
+cd docs
+create c.txt
+ls
+stat c.txt
+CD
+ls
+rename a.txt z.txt
+ls
+exit

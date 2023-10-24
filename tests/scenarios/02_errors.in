@@ -1,0 +1,17 @@
+mkdir docs
+mkdir docs
+create a.txt
+create a.txt
+cd missing
+cd a.txt
+stat missing
+cat missing
+rm missing
+rename missing x
+echo missing tekst
+cd docs
+mkdir nested
+foo bar
+ls
+
+exit

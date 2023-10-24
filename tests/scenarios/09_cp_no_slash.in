@@ -1,0 +1,4 @@
+create a.txt
+cp a.txt a.txt
+ls
+exit

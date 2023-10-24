@@ -1,0 +1,16 @@
+mkdir docs
+create a.txt
+echo a.txt persistent
+cd docs
+create c.txt
+#restart
+ls
+cat a.txt
+ls
+CD
+rm a.txt
+#restart
+ls
+cd docs
+ls
+exit

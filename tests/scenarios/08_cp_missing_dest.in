@@ -1,0 +1,4 @@
+create a.txt
+cp root/a.txt root/missing
+ls
+exit

@@ -1,0 +1,15 @@
+mkdir docs
+create a.txt
+cd docs
+create c.txt
+create d.txt
+CD
+ls
+rm a.txt
+ls
+rm docs
+ls
+stat docs
+create e.txt
+stat e.txt
+exit

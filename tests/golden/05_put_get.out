@@ -1,0 +1,15 @@
+root> root> hello.txt
+root> Name: hello.txt
+I-node number: 1
+Block number: 1
+Type: file
+Blocks: 5
+Size: 27 B
+Parent directory: root
+root> root> replaced content
+root> root> root> Current directory: root/docs
+root/docs> root/docs> hello.txt
+root/docs> root/docs> 
+[exit=0]
+--- file: hello.txt
+00000000: 7265 706c 6163 6564 2063 6f6e 7465 6e74  replaced content

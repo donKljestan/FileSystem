@@ -1,0 +1,24 @@
+root> root> root> root> root> root> root> docs
+b.txt
+root> AAA
+root> root> root> AAA
+root> Source and destination are the same file.
+root> root> root> docs
+b.txt
+root> Current directory: root/docs
+root/docs> c.txt
+b.txt
+root/docs> AAA
+root/docs> 'b.txt' already exists in this folder.
+root/docs> 'c.txt' already exists in this folder.
+root/docs> 'b.txt' already exists in this folder.
+root/docs> 'b.txt' already exists in this folder.
+root/docs> root/docs> c.txt
+root/docs> Current directory: root
+root> docs
+b.txt
+root> 
+[exit=0]
+--- file: hello.txt
+00000000: 736f 6d65 2074 6578 7420 6672 6f6d 2074  some text from t
+00000010: 6865 2066 6978 7475 7265 0a              he fixture.

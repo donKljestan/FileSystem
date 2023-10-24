@@ -1,0 +1,2 @@
+head -c 2100 /dev/zero | tr "\0" "x" > big.bin
+head -c 1980 /dev/zero | tr "\0" "y" > fit.bin

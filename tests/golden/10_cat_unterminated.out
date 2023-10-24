@@ -1,0 +1,6 @@
+root> root> 
+root> 
+[exit=0]
+--- file: hello.txt
+00000000: 736f 6d65 2074 6578 7420 6672 6f6d 2074  some text from t
+00000010: 6865 2066 6978 7475 7265 0a              he fixture.

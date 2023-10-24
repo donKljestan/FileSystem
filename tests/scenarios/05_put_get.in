@@ -1,0 +1,12 @@
+get hello.txt
+ls
+stat hello.txt
+echo hello.txt replaced content
+cat hello.txt
+put hello.txt
+mkdir docs
+cd docs
+get hello.txt
+ls
+put hello.txt
+exit

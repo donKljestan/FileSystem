@@ -1,0 +1,31 @@
+mkdir docs
+cd docs
+create c.txt
+echo c.txt in docs
+cat root/docs/c.txt
+cat /docs/c.txt
+cd ..
+cat docs/c.txt
+stat docs/c.txt
+cp docs/c.txt d.txt
+cat d.txt
+cp d.txt docs
+ls
+cd docs
+ls
+cp c.txt /newcopy.txt
+ls
+cd root
+ls
+mv newcopy.txt docs/moved.txt
+mv docs/moved.txt docs/renamed.txt
+rename docs/renamed.txt final.txt
+ls
+cd docs
+ls
+cat final.txt
+cd /
+cat docs/missing/c.txt
+cd docs/missing
+create docs/x
+exit

@@ -1,0 +1,53 @@
+root> root> root> root> root> root> root> root> root> root> root> root> root> root> root> root> root> root> root> root> There is not enough space (no free i-nodes).
+root> There is not enough space (no free i-nodes).
+root> f1
+f2
+f3
+f4
+f5
+f6
+f7
+f8
+f9
+f10
+f11
+f12
+f13
+f14
+f15
+f16
+f17
+f18
+f19
+root> root> root> There is not enough space (no free i-nodes).
+root> f1
+f2
+g1
+f4
+f5
+f6
+f7
+f8
+f9
+f10
+f11
+f12
+f13
+f14
+f15
+f16
+f17
+f18
+f19
+root> Name: g1
+I-node number: 3
+Block number: 11
+Type: file
+Blocks: 5
+Size: 0 B
+Parent directory: root
+root> 
+[exit=0]
+--- file: hello.txt
+00000000: 736f 6d65 2074 6578 7420 6672 6f6d 2074  some text from t
+00000010: 6865 2066 6978 7475 7265 0a              he fixture.

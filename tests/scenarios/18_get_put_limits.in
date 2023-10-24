@@ -1,0 +1,16 @@
+get big.bin
+ls
+get fit.bin
+stat fit.bin
+get fit.bin
+get hello.txt
+ls
+echo fit.bin short
+put fit.bin
+rm fit.bin
+mkdir docs
+put docs
+get missing.bin
+get fit.bin
+stat fit.bin
+exit

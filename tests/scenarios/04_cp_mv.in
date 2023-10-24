@@ -1,0 +1,20 @@
+mkdir docs
+create a.txt
+create b.txt
+echo a.txt content
+cd docs
+create c.txt
+CD
+cp root/a.txt docs/c.txt
+cd docs
+cat c.txt
+CD
+mv root/a.txt root/b.txt
+ls
+cat b.txt
+mv root/b.txt docs/c.txt
+ls
+cd docs
+ls
+cat c.txt
+exit

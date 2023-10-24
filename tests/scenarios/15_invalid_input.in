@@ -1,0 +1,27 @@
+mkdir
+create
+echo a.txt
+echo
+cp a.txt
+rename a.txt
+ls extra
+create a/b
+create ..
+create root
+create 0123456789012345678901234567890123456789
+create ok.txt
+echo ok.txt text
+mkdir docs
+cp ok.txt docs/ok.txt
+cp ok.txt ok.txt
+cp docs ok.txt
+mv docs x
+rm root
+rename ok.txt docs
+rename ok.txt ok.txt
+cat docs
+echo docs text
+get missing.txt
+   ls   
+help
+exit

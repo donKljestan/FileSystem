@@ -1,0 +1,29 @@
+root> There is not enough space.
+root> root> root> Name: fit.bin
+I-node number: 1
+Block number: 1
+Type: file
+Blocks: 99
+Size: 1980 B
+Parent directory: root
+root> 'fit.bin' already exists in this folder.
+root> There is not enough space.
+root> fit.bin
+root> root> root> root> root> 'docs' is a folder.
+root> Cannot open the local file 'missing.bin'.
+root> root> Name: fit.bin
+I-node number: 2
+Block number: 2
+Type: file
+Blocks: 5
+Size: 5 B
+Parent directory: root
+root> 
+[exit=0]
+--- file: big.bin
+2100 bytes, cksum 4091204839 2100
+--- file: fit.bin
+00000000: 7368 6f72 74                             short
+--- file: hello.txt
+00000000: 736f 6d65 2074 6578 7420 6672 6f6d 2074  some text from t
+00000010: 6865 2066 6978 7475 7265 0a              he fixture.

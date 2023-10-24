@@ -1,0 +1,40 @@
+root> root> Current directory: root/docs
+root/docs> root/docs> root/docs> in docs
+root/docs> in docs
+root/docs> Current directory: root
+root> in docs
+root> Name: c.txt
+I-node number: 2
+Block number: 2
+Type: file
+Blocks: 5
+Size: 7 B
+Parent directory: root/docs
+root> root> in docs
+root> root> docs
+d.txt
+root> Current directory: root/docs
+root/docs> c.txt
+d.txt
+root/docs> root/docs> c.txt
+d.txt
+root/docs> Current directory: root
+root> docs
+d.txt
+newcopy.txt
+root> root> root> root> docs
+d.txt
+root> Current directory: root/docs
+root/docs> c.txt
+d.txt
+final.txt
+root/docs> in docs
+root/docs> Current directory: root
+root> Folder 'missing' doesn't exist.
+root> 'docs/missing' doesn't exist.
+root> Name can't contain '/'.
+root> 
+[exit=0]
+--- file: hello.txt
+00000000: 736f 6d65 2074 6578 7420 6672 6f6d 2074  some text from t
+00000010: 6865 2066 6978 7475 7265 0a              he fixture.

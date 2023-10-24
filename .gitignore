@@ -1,0 +1,14 @@
+build/
+out/
+.vs/
+Debug/
+Release/
+x64/
+*.exe
+*.ilk
+*.pdb
+*.obj
+disk.bin
+disk.bin.tmp
+FileSystem/file
+tests/golden-original/

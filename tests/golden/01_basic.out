@@ -1,0 +1,44 @@
+root> root> root> root> docs
+pics
+root> root> root> docs
+pics
+a.txt
+b.txt
+root> Name: a.txt
+I-node number: 3
+Block number: 3
+Type: file
+Blocks: 5
+Size: 0 B
+Parent directory: root
+root> Name: docs
+I-node number: 1
+Block number: 1
+Type: folder
+Blocks: 1
+Size: 0 B
+Parent directory: root
+root> root> hello world
+root> Current directory: root/docs
+root/docs> root/docs> c.txt
+root/docs> Name: c.txt
+I-node number: 5
+Block number: 13
+Type: file
+Blocks: 5
+Size: 0 B
+Parent directory: root/docs
+root/docs> Current directory: root
+root> docs
+pics
+a.txt
+b.txt
+root> root> docs
+pics
+z.txt
+b.txt
+root> 
+[exit=0]
+--- file: hello.txt
+00000000: 736f 6d65 2074 6578 7420 6672 6f6d 2074  some text from t
+00000010: 6865 2066 6978 7475 7265 0a              he fixture.

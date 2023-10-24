@@ -1,0 +1,27 @@
+mkdir docs
+create a.txt
+create b.txt
+echo a.txt AAA
+echo b.txt BBB
+mv a.txt b.txt
+ls
+cat b.txt
+create c.txt
+cp b.txt c.txt
+cat c.txt
+mv b.txt b.txt
+cp b.txt docs
+mv c.txt docs
+ls
+cd docs
+ls
+cat c.txt
+rename c.txt b.txt
+rename b.txt c.txt
+create b.txt
+rename c.txt b.txt
+mv b.txt ..
+ls
+cd ..
+ls
+exit

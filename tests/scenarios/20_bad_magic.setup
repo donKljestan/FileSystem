@@ -1,0 +1,1 @@
+head -c 3172 /dev/zero > disk.bin

@@ -1,0 +1,41 @@
+root> Usage: mkdir <name>
+root> Usage: create <name>
+root> Usage: echo <file> <text>
+root> Usage: echo <file> <text>
+root> Usage: cp <source> <destination>
+root> Usage: rename <name> <new name>
+root> Usage: ls
+root> Name can't contain '/'.
+root> '..' is a reserved name.
+root> 'root' is a reserved name.
+root> Name is too long (max 31 characters).
+root> root> root> root> root> Source and destination are the same file.
+root> Folders can't be copied or moved.
+root> Folders can't be copied or moved.
+root> The root folder can't be removed.
+root> 'docs' already exists in this folder.
+root> root> 'docs' is a folder.
+root> 'docs' is a folder.
+root> Cannot open the local file 'missing.txt'.
+root> ok.txt
+docs
+root> mkdir <name>              create a folder (root only)
+create <name>             create an empty file
+cd <folder>               change folder (also: cd .., cd root); CD goes to root
+ls                        list the current folder
+stat <name>               show i-node information
+echo <file> <text>        write text to a file
+cat <file>                print a file
+rename <name> <new name>  rename a file or folder
+rm <name>                 remove a file or a folder with its content
+cp <source> <dest>        copy a file (dest may be a new name or a folder)
+mv <source> <dest>        move or rename a file
+get <local file>          import a file from the computer
+put <file>                export a file to the computer
+exit                      quit
+Paths: name, folder/name, root/name, /name
+root> 
+[exit=0]
+--- file: hello.txt
+00000000: 736f 6d65 2074 6578 7420 6672 6f6d 2074  some text from t
+00000010: 6865 2066 6978 7475 7265 0a              he fixture.
